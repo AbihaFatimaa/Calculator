@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-     background-color: #b3cf99;
+     background-color: #074760d7;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .calculator{
@@ -21,7 +21,7 @@ body {
     border: none;
     text-align: right;
     width: 380px;
-    background-color: #f8d0c8;
+    background-color: #e190d0;
     color: #121614;
 
 }
